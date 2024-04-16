@@ -1,11 +1,12 @@
 import argparse
+import os
+from sklearn.metrics import f1_score
+
 import torch
 from torchvision import models
 import torch.nn as nn
 import torch.optim as optim
 from torch.optim import lr_scheduler
-from sklearn.metrics import f1_score
-import os
 
 from scripts import scripts
 
