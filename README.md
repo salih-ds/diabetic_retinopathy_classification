@@ -1,5 +1,6 @@
 # diabetic_retinopathy_classification
 Kaggle соревнование: [Diabetic Retinopathy Classification F1 Score #4](https://www.kaggle.com/competitions/diabetic-retinopathy-classification-f1-score-4/overview)
+
 Результат: 4-е место (Ruslan Salikhzianov), Macro F1 score = 0.63060
 
 ## Introduction
