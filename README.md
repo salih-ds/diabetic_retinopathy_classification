@@ -4,7 +4,7 @@ Kaggle соревнование: [Diabetic Retinopathy Classification F1 Score #
 
 ## Introduction
 В проекте представлена полная работа по подготовке модели для определения заболевания и степени тяжести [Диабетиической ретинопатиии](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%B1%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%82%D0%B8%D0%BD%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%8F) на основе снимков глаз. Диабетиическая ретинопатиия — поражение сетчатки глаза диабетического происхождения. Является одним из наиболее тяжёлых осложнений сахарного диабета; проявляется в виде диабетической микроангиопатии, поражающей сосуды сетчатой оболочки глазного яблока, наблюдаемой у 90% пациентов при сахарном диабете.
-![Пример болезни](https://github.com/salih-ds/diabetic_retinopathy_classification/style/example.png)
+![Пример болезни](https://github.com/salih-ds/diabetic_retinopathy_classification/blob/main/style/example.png)
 
 Работа проведена на основе соревнования kaggle: [Diabetic Retinopathy Classification F1 Score #4](https://www.kaggle.com/competitions/diabetic-retinopathy-classification-f1-score-4/overview). Целью соревнования является обучение модели для предсказания заболевания и степени тяжести Диабетиической ретинопатиии. В качестве данных представлены снимки глаз и метка степени заболевания:
 - 0 - No DR
